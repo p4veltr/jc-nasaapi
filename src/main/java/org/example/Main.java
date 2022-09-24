@@ -11,12 +11,9 @@ import org.apache.http.impl.client.HttpClientBuilder;
 
 import java.io.BufferedInputStream;
 import java.io.FileOutputStream;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.Paths;
-import java.util.List;
 
 public class Main {
     private static final String NASA_API_KEY = "gkAehV3PeYAideqFEM2PQ1isQWvRZW38HrmEXYp3";
